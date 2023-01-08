@@ -1,4 +1,4 @@
-# Globalfoundries_Code_Sample
+# Python_Code_Sample
 
 
 This code sample displays an interpretation of the Age-Fitness Pareto Optimization algorithm as described [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.375.6168&rep=rep1&type=pdf)
